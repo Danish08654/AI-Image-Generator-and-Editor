@@ -1,6 +1,5 @@
 streamlit
 Pillow
-huggingface_hub
 opencv-python-headless
 numpy
 rembg
